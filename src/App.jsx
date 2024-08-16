@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className='w-screen h-screen bg-white'>
-      <Button>Button</Button>
+      <Button>Button </Button>
       </div>
 
     </>
