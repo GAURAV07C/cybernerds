@@ -1,5 +1,6 @@
 import "./App.css";
-import { Button } from "@material-tailwind/react";
+
+import './../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
@@ -10,8 +11,7 @@ function App() {
             This app use tech stack - react + bootstrap
           </p>
           <div>
-          <Button className="">Button </Button>
-          <Button>hii</Button>
+            <button className="btn btn-warning p-3 m-5" >bootstrap</button>
           </div>
 
         </div>
