@@ -7,7 +7,7 @@ function App() {
       <div className="">
         <div className=" ">
           <p className="">
-            This app use tech stack - react + talwind + MUi
+            This app use tech stack - react + bootstrap
           </p>
           <div>
           <Button className="">Button </Button>
